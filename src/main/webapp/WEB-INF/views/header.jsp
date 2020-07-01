@@ -56,7 +56,7 @@
                                             <a href="#">Himalaya Mountain</a>
                                         </li>
                                         <li>
-                                            <a href="#">Hosahalli</a>
+                                            <a href="#">Koushika Mysore</a>
                                         </li>
                                     </ul>
                                 </li>
