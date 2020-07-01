@@ -53,7 +53,7 @@
                                             <a href="#">Secret Mountain</a>
                                         </li>
                                         <li>
-                                            <a href="#">Himalaya</a>
+                                            <a href="#">Himalaya Mountain</a>
                                         </li>
                                     </ul>
                                 </li>
